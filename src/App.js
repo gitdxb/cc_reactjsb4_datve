@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import BTDatVe from './BTDatVe/BTDatVe';
+import TicketBooking from './BTDatVeReDux/TicketBooking';
+
 
 function App() {
   return (
     <div className="App">
-      <BTDatVe />
+      <TicketBooking/>
     </div>
   );
 }

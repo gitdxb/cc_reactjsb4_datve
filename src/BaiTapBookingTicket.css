@@ -1,12 +1,3 @@
-@font-face {
-    font-family: 'fontGame';
-    src: url('../font/Pony.ttf');
-}
-
-.bookingMovie{
-    font-family: 'fontGame';
-}
-
 
 .ghe{
     border: 3px solid orange;
@@ -37,16 +28,6 @@
 
 }
 
-.screen{
-    border-bottom: 50px solid rgb(255, 159, 95);
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    height: 100;
-    width:80%;
-    filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
-    font-size: 25px;
-    color: #fff;
-}
 
 
 .gheDuocChon {
