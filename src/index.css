@@ -17,7 +17,6 @@ body {
 }
 
 .bg-overlay {
-  /* background-image: url(../public/img/bgmovie.jpg); */
   background-image: url(../public/img/bgmovie.png);
   background-repeat: no-repeat;
   background-position: center;
